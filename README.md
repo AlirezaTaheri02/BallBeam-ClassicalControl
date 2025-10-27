@@ -1,4 +1,4 @@
-# ⚖️ Stability Control of the Ball-&-Beam System
+# Stability Control of the Ball-&-Beam System
 
 This repository contains my implementation of the **BallStab** project, developed as part of the *Automatic Control course (2023)*.  
 
@@ -63,5 +63,3 @@ Implemented P, PI, PD, PID, and Lead–Lag controllers; tuned for fast and stabl
 </figure>
 
 ---
-ylabel('Ball Position (m)');
-title('Ball Position under PID Control');
