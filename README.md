@@ -1,4 +1,4 @@
-# ⚖️ BallStab: Stability Control of the Ball-&-Beam System
+# ⚖️ Stability Control of the Ball-&-Beam System
 
 This repository contains my implementation of the **BallStab** project, developed as part of the *Automatic Control course (2023)*.  
 
